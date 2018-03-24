@@ -2,15 +2,11 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.desire.elearning"
+        id        = "edu.ivory.pschools"
         versionCode = "2001"
         version   = "1.0.1">
-    <name>Desire</name>
-
-    <description>
-       Desire2elearning is initiative in the Sudanese primary level education, its the next step in the future education for the future generation. it first starts by Innovative Solutions.
-    </description>
-
+    <name>Ivory</name>
+    <description>Ivory Private Schools Sudan.</description>
     <author href="http://isco.ca" email="innovative@isco.ca">
         Innovative Development team
     </author>

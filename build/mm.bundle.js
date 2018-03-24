@@ -71092,9 +71092,9 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.desire.elearning",
-    "appname": "Desire",
-    "desktopappname": "Desire",
+    "app_id" : "edu.ivory.pschools",
+    "appname": "Ivory",
+    "desktopappname": "Ivory",
     "versioncode" : "2001",
     "versionname" : "1.0.1",
     "cache_expiration_time" : 300000,
