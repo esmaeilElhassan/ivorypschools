@@ -1,0 +1,19 @@
+{
+    "app_id" : "com.desire.elearning",
+    "appname": "Desire",
+    "desktopappname": "Desire",
+    "versioncode" : "2001",
+    "versionname" : "1.0.1",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "en",
+    "languages": {"ar": "عربي", "en": "English"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "gcmpn": "694767596569",
+    "customurlscheme": "desire2elearning",
+    "siteurl": "https://www.desire2elearning.com",
+    "multisitesdisplay": "select",
+    "skipssoconfirmation": "false",
+    "forcedefaultlanguage": "false",
+    "privacypolicy": "https://www.ust-elearning.net/policy/mobile.html"
+}
